@@ -1,0 +1,12 @@
+body{
+    background:violet;
+}
+  .cor_de_fundo{
+  background-color: rgb(145, 141, 145);
+  color: rgb(20, 20, 20);
+  }
+  .cor_de_fundo2{
+    background-color: rgb(51, 141, 141);
+    color: rgb(20, 20, 20);
+    align-self:auto;
+    }
